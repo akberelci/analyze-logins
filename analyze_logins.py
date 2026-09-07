@@ -1,5 +1,5 @@
 """
-# This script analyzes login logs for suspicious activity
+
 Simple Login Log Analyzer
 --------------------------
 Reads a login log file, counts failed login attempts per user/IP,
